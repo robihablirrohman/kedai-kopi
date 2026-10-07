@@ -1,3 +1,5 @@
+# Database Sistem Manajemen Kedai Kopi
+
 This document describes the database schema of **Kedai Kopi** and every Eloquent relationship used in the project.
 
 ## 1. Entity Relationship Diagram
